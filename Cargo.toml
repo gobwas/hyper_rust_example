@@ -1,0 +1,8 @@
+[package]
+name = "hyp"
+version = "0.1.0"
+authors = ["gobwas <gobwas@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+regex = "*"
